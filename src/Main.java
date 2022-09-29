@@ -1,4 +1,4 @@
-
+//Типа они могут взять жизнь в кредит
 import java.util.Locale;
 import java.util.Scanner;
 
